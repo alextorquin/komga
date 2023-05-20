@@ -24,3 +24,4 @@ services:
     #environment:
     #  - <ENV_VAR>=<extra configuration>
     restart: unless-stopped
+    
